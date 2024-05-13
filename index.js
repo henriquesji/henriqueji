@@ -106,11 +106,11 @@ listaProduto = [
   "R$": "5,00",
  },
   {
-    "nome": "KelCat Snacks  Atum",
+    "nome": "Casinha de Passaros",
     "img": "20240112_115303.jpg",
-   "descrição":"snack sabor atum , casquinha crocante.  unidade",
+   "descrição":"Madeira ,Telhado com plástico reciclável)*PRODUTO SUSTENTÁVEL*",
     "idi":"",
-      "R$": "5,00",
+      "R$": "55,00",
  },
    {
     "nome": "Brinquedo Bola com tecido",
