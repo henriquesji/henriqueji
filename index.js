@@ -1,10 +1,10 @@
 listaProduto = [
   {
-  "nome": "Luva tira pelos cães/gatos",
-  "img":"luva.jpg",
-   "descrição":"Remove o excesso de pelo de  seu pet",
+  "nome": "Bebedouro  Agua fresca",
+  "img":"acquaFresca.jpeg",
+   "descrição":"Mantenha a agua sempre fresquinha",
    "idi":"",
-  "R$": "15,00"
+  "R$": "35,00"
   },
   {
     "nome": "Canopla de Pelúcia",
@@ -120,6 +120,13 @@ listaProduto = [
     "R$": "15,00"
 
    },
+   {
+  "nome": "Luva tira pelos cães/gatos",
+  "img":"luva.jpg",
+   "descrição":"Remove o excesso de pelo de  seu pet",
+   "idi":"",
+  "R$": "15,00"
+  },
 ]
 listaProduto.map((produto) => {
  let cardProduto = document.getElementById("cards");
