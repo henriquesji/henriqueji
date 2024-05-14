@@ -21,11 +21,11 @@ listaProduto = [
   "R$": "20,00"
  },
   {
-  "nome": "Comedouro Inox cães",
+  "nome": "Chaveiro cães e gatos",
     "img":"20240111_102903.jpg",
      "idi":"VENDIDO",
-    "descrição":"comedouro em INOX",
-    "R$": "35,00"
+    "descrição":"Qual a sua ração ? Escolha o seu chaverinho!",
+    "R$": "10,00"
    },
   {
     "nome": "Comedouro PopCorn cães",
@@ -127,6 +127,13 @@ listaProduto = [
    "idi":"",
   "R$": "15,00"
   },
+  {
+  "nome": "Comedouro Inox cães",
+    "img":"20240111_102903.jpg",
+     "idi":"VENDIDO",
+    "descrição":"comedouro em INOX",
+    "R$": "35,00"
+   },
 ]
 listaProduto.map((produto) => {
  let cardProduto = document.getElementById("cards");
