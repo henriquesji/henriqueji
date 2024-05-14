@@ -24,7 +24,7 @@ listaProduto = [
   "nome": "Chaveiro cães e gatos",
     "img":"chaveiros.jpeg",
      "idi":"",
-    "descrição":"Qual a sua ração ? Escolha o seu chaverinho!",
+    "descrição":"Qual a sua raça ? Escolha o seu chaverinho!",
     "R$": "10,00 a unidade"
    },
   {
