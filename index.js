@@ -23,9 +23,9 @@ listaProduto = [
   {
   "nome": "Chaveiro cães e gatos",
     "img":"chaveiros.jpeg",
-     "idi":"VENDIDO",
+     "idi":"",
     "descrição":"Qual a sua ração ? Escolha o seu chaverinho!",
-    "R$": "10,00"
+    "R$": "10,00 a unidade"
    },
   {
     "nome": "Comedouro PopCorn cães",
