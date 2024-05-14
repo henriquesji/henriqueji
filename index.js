@@ -107,7 +107,7 @@ listaProduto = [
  },
   {
     "nome": "Casinha de Passaros",
-    "img": "20240112_115303.jpg",
+    "img": "casinha.jpeg",
    "descrição":"Madeira ,Telhado com plástico reciclável)*PRODUTO SUSTENTÁVEL*",
     "idi":"",
       "R$": "55,00",
