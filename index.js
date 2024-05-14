@@ -22,7 +22,7 @@ listaProduto = [
  },
   {
   "nome": "Chaveiro cães e gatos",
-    "img":"20240111_102903.jpg",
+    "img":"chaveiros.jpeg",
      "idi":"VENDIDO",
     "descrição":"Qual a sua ração ? Escolha o seu chaverinho!",
     "R$": "10,00"
