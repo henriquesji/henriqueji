@@ -1,7 +1,7 @@
 listaProduto = [
   {
   "nome": "Arranhador Gato",
-  "img":"aranhador gato.jpeg",
+  "img":"aranhadorgato.jpeg",
    "descrição":"Arranhador para gatos com arcos",
    "idi":"",
   "R$": "49,99"
