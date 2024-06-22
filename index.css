@@ -11,9 +11,7 @@ body{
   background: #33cccc;
 
 }
-.infor h3{
-  color: red;
-}
+
 
 
 .cabecalho {
@@ -71,11 +69,11 @@ img{
   cursor: pointer;
 }
 .infor{
-  color:red;
+  color:$78876;
   tex-align:center;
   
 }
-# infor{
+#infor{
   background-color: #666;
   border-radius: 5px;
   color: white;
