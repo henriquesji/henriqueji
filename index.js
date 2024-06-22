@@ -166,7 +166,8 @@ listaProduto.map((produto) => {
  `;
 
 })
-document.write("<center>LISTA DE PRODUTOS EM ESTOQUES :<br> ");
+/*document.write("<center>LISTA DE PRODUTOS EM ESTOQUES :<br> ");
 for(I = 0; I < listaProduto.length; I++){
 document.write(listaProduto[I].nome+"<br>");
 }
+*/
