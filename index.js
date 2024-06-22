@@ -1,5 +1,11 @@
 listaProduto = [
   {
+  "nome": "Arranhador Gato",
+  "img":"acquaFresca.jpeg",
+   "descrição":"arranhador.jpeg",
+   "idi":"",
+  "R$": "49,99"
+  {
   "nome": "Bebedouro  Agua fresca",
   "img":"acquaFresca.jpeg",
    "descrição":"Mantenha a agua sempre fresquinha",
