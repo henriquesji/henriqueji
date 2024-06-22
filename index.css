@@ -70,6 +70,9 @@ img{
   margin: 4px 2px;
   cursor: pointer;
 }
+.infor{
+  color:red;
+}
   footer{
     background-color: #9046cb;
     border-radius: 5px;
