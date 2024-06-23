@@ -24,7 +24,7 @@ listaProduto = [
   "nome": "Tapete Quente",
   "img":"tapete.jpg",
    "descrição":"Patricidade para proteger seu pet  das noites frias",
-   "idi":"",
+   "idi":"VENDIDO",
   "R$": "20,00"
  },
   {
