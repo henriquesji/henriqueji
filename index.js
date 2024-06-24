@@ -21,11 +21,11 @@ listaProduto = [
       "R$": "25,00"
      },
   {
-  "nome": "Tapete Quente",
-  "img":"tapete.jpg",
-   "descrição":"Patricidade para proteger seu pet  das noites frias",
-   "idi":"VENDIDO",
-  "R$": "20,00"
+  "nome": "Kit Higiene",
+  "img":"kit.jpeg",
+   "descrição":"Kit higiene para  coleta de fezes:1 porta rolo e 2 rolos plásticos",
+   "idi":"",
+  "R$": "15,00"
  },
   {
   "nome": "Chaveiro cães e gatos",
